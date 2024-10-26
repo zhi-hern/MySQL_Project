@@ -1,5 +1,5 @@
 # MySQL_Project
-This project showcases my proficiency in data cleaning and exploratory data analysis (EDA) by using MySQL.
+This project showcases my proficiency in data cleaning and exploratory data analysis (EDA) using MySQL.
 
 ## Analyzing Coffee Sales
 [index.csv][coffee_sales.sql]
