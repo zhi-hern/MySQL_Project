@@ -1,4 +1,5 @@
-# MySQL_Project
+# MySQL_Project ![image](https://github.com/user-attachments/assets/037eaeca-bc59-4be5-8f90-a009f3125fe3)
+
 This project showcases my proficiency in data cleaning and exploratory data analysis (EDA) using MySQL.
 
 ## Analyzing Coffee Sales
