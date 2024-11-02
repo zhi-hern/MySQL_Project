@@ -3,7 +3,7 @@
 This project showcases my proficiency in data cleaning and exploratory data analysis (EDA) using MySQL.
 
 ## Analyzing Coffee Sales
-[index.csv][coffee_sales.sql]
+[[index.csv]](https://github.com/zhi-hern/MySQL_Project/blob/main/index.csv) [[coffee_sales.sql]](https://github.com/zhi-hern/MySQL_Project/blob/main/coffee_sales.sql)
 ## Project Description
 This project creates a table for coffee sales data, loads data from a CSV file, and performs various analyses. It includes checks for duplicate records, data standardization, and exploratory data analysis using functions like SUM, COUNT, and window functions with OVER. Additionally, it categorizes customers into spending tiers based on their total purchases.
 
