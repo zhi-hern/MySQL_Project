@@ -18,7 +18,7 @@ This project creates a table for coffee sales data, loads data from a CSV file, 
     - `coffee_purchased`: Type of coffee purchased.
 
 ### Data Loading: 
-  - **Data Import**: Data is loaded from a CSV file named `index.csv`, with fields separated by commas.
+  - **Data Import**: Data is loaded from a CSV file named [index.csv](https://github.com/zhi-hern/MySQL_Project/blob/main/index.csv) with fields separated by commas.
 
 ### Data Integrity Checks
   - **Duplicate Records**: The script checks for duplicates in the sales records using `GROUP BY` and `Common Table Expressions (CTEs)`, confirming that no duplicates exist.
